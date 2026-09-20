@@ -43,8 +43,10 @@ Change `BASE_URL` near the top of the script to search a different trade or city
 ## How it works
 
 **1. It scrolls the listing panel on google maps and when the scroll reaches to the end and nothing new loads, it breaks the loop.**
+
 **2. Then it scrapes the required data one by one and stores them in a variable named records.**
-**3. Then it stored the recorded data into the Excel file with clean formatted data.
+
+**3. Then it stored the recorded data into the Excel file with clean formatted data.**
 
 
 ## Known limitation
